@@ -21,4 +21,5 @@ Some of the key problem statements solved in the analysis:
 The analysis and the solution of problem statements has been done in SQL.
 
 RDBMS used: MySQL
+
 The code might need some alteration if written in another RDBMS
